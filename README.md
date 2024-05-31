@@ -1,0 +1,2 @@
+# Android-FaceMask-Detection(FDM_V2)
+ The Face Mask Detection Application is an Android-based machine learning app designed to detect whether individuals are wearing face masks in real-time using their device's camera. This application leverages modern camera and machine learning technologies to provide an efficient and accurate solution for face mask detection, crucial in today's health-conscious environment.

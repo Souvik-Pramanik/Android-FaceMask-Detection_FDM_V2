@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\build\\intermediates\\res\\merged\\release\\drawable_red_border.xml.flat",
+        "source": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\src\\main\\res\\drawable\\red_border.xml"
+    },
+    {
+        "merged": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\build\\intermediates\\res\\merged\\release\\drawable_mask.xml.flat",
+        "source": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\src\\main\\res\\drawable\\mask.xml"
+    },
+    {
+        "merged": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\build\\intermediates\\res\\merged\\release\\drawable_green_border.xml.flat",
+        "source": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\src\\main\\res\\drawable\\green_border.xml"
+    },
+    {
+        "merged": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_camera_front.xml.flat",
+        "source": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\src\\main\\res\\drawable\\ic_camera_front.xml"
+    },
+    {
+        "merged": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_camera_rear.xml.flat",
+        "source": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\src\\main\\res\\drawable\\ic_camera_rear.xml"
+    },
+    {
+        "merged": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\P_Project\\AndroidFaceMaskDetection\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]

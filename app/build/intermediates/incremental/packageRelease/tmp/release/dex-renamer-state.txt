@@ -1,0 +1,4 @@
+#Sun Apr 21 13:19:23 IST 2024
+base.0=E\:\\P_Project\\AndroidFaceMaskDetection\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
